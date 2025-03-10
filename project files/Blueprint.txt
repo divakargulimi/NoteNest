@@ -1,0 +1,21 @@
+Crime-Track/
+│-- backend/
+│   │-- controllers/
+│   │   ├── authController.js
+│   │   ├── reportController.js
+│   │-- models/
+│   │   ├── userModel.js
+│   │   ├── reportModel.js
+│   │-- routes/
+│   │   ├── authRoutes.js
+│   │   ├── reportRoutes.js
+│   │-- middleware/
+│   │   ├── authMiddleware.js
+│   │-- config/
+│   │   ├── db.js
+│   │-- .env
+│   │-- server.js
+│-- package.json
+│-- README.md
+
+
